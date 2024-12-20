@@ -1,0 +1,2 @@
+# Ada Subtype Loop Error
+This example demonstrates a potential off-by-one error in Ada when using subtypes within loops.  The issue arises from the inclusive nature of Ada's subtype ranges and how the loop condition is defined.  The provided code and solution illustrate the problem and its correction.
